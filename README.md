@@ -1,4 +1,4 @@
-# CSL-411-COMPILER-LAB
+#COMPILER-LAB
 
 PROGRAMS:
 1. FIRST OF A GRAMMAR : FIRST of a symbol (usually a non-terminal) tells us what terminal symbols can appear at the beginning of strings derived from that symbol.
