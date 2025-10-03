@@ -20,3 +20,11 @@ int yyerror()
 printf("Invalid Variable!\n");
 exit(1);
 }
+
+
+/* output
+Enter a variable name: Hello!12
+Invalid Variable!
+student@holy-ThinkCentre-M72e:~/neha$./a.out
+Enter a variable name: Hello12
+Valid variable!! */
