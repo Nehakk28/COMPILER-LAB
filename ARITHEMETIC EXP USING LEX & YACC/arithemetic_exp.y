@@ -37,3 +37,12 @@ printf("\n Entered Arithmetic
 expression is invalid\n\n");
 flag=1;
 }
+
+
+/* output 
+Enter any arithmetic exp which can have operations addition, subtraction, multiplication, 
+division , modulus and round brackets:
+5*6
+Result=30
+Entered Arithmetic expression is valid.
+*/
